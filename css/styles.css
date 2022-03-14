@@ -21,14 +21,14 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 300px;
+  width: 310px;
   border-radius: 10px;
   background-color: var(--White);
   text-align: center;
 }
 .img {
   border-radius: 10px;
-  height: 265px;
+  height: 270px;
   margin-bottom: 1.5rem;
 }
 .title {
